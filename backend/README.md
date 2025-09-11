@@ -1,6 +1,6 @@
 # User & Post Management App 
 
-A simple Node.js/TypeScript backend (can be JSON-server or custom API) for users and posts.
+A simple Node.js/TypeScript backend for users and posts.
 
 ## Features
 - CRUD endpoints for users and posts
@@ -18,4 +18,4 @@ A simple Node.js/TypeScript backend (can be JSON-server or custom API) for users
 ## Setup
 cd backend
 npm install
-npm run dev
+npm run start:dev
